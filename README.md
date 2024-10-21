@@ -1,6 +1,6 @@
-# Advanced Custom Fields
+# My Custom Fields -Under Construction
 
-Welcome to the official Advanced Custom Fields repository on GitHub. ACF is a WordPress plugin used to take full control of your edit screens & custom field data.
+Welcome to the official My Custom Fields repository on GitHub. MCF is a Fork of ACF WordPress plugin used to take full control of your edit screens & custom field data.
 
 ## Documentation
 
